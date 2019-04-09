@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="/Users/aang/study/hadoop-3.1.2-src/hadoop-common-project/hadoop-minikdc/target/test-dir"/>
+  <mkdir dir="/Users/aang/study/hadoop-3.1.2-src/hadoop-common-project/hadoop-minikdc/target/test-dir"/>
+</target>
+</project>

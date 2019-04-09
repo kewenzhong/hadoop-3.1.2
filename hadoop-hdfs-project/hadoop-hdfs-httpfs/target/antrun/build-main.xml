@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="/Users/aang/study/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-httpfs/target/test-classes/webapp"/>
+  <copy todir="/Users/aang/study/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-httpfs/target/test-classes/webapp">
+    <fileset dir="/Users/aang/study/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-httpfs/src/main/webapp"/>
+  </copy>
+</target>
+</project>
